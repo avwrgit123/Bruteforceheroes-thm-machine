@@ -10,4 +10,4 @@ link to guide https://github.com/avwrgit123/Bruteforceheroes-thm-machine/blob/ma
 <br>
 bruteforce script in brute_force_script.sh give it premisions to run command sudo chmod u+r ./brute_force_script.sh
 <br>
-brute_force_script.sh script link
+brute_force_script.sh script link https://github.com/avwrgit123/Bruteforceheroes-thm-machine/blob/main/brute_force_script.sh
